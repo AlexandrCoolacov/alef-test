@@ -285,7 +285,7 @@ export default {
   }
 }
 
-h2{
+h2,h1,span{
   margin-bottom: 5px;
   font-family: Montserrat;
   font-style: normal;

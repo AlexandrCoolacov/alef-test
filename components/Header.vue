@@ -47,6 +47,7 @@ export default {
     justify-content: center;
     align-items: center;
     text-align: center;
+    border: 1px solid #F1F1F1;
     &> div{
             margin-right: 15px;
     }
